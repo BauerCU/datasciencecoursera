@@ -1,1 +1,1 @@
-## This is a markdown file (created with text editor).
+## This is a markdown file
