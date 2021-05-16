@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-author: "Christina Bauer"
+author: "C. Bauer"
 date: "5/16/2021"
 output: html_document
 ---
